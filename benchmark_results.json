@@ -1,0 +1,4592 @@
+[
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.47861100000545775
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.39847099998269186
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8715940000172395
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 1.0226119999856564
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06712100000072496
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.45490599998743164
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4143040000030851
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2961370000207353
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8488590000013119
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8808280000209834
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06275499998764644
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.41900099998315454
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4352059999916946
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2795720000108304
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8353289999831759
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8945689999961814
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06106199998612283
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.41449500000112494
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.42905600000153754
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2789810000081161
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8497610000119948
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8951290000140943
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.0614729999881547
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.41264199998636286
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4306890000123076
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2768069999774525
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8289000000161195
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9725960000253053
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06163300000139316
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.41500599999722
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.43658800001367126
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2799419999917063
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8298609999997097
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8948690000067927
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.060860999980150154
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.42709400000262576
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4204939999965518
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.28370799998356233
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8446829999968486
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9774039999967954
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06231399999023779
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.43831100001057166
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4346659999896474
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.29461400001196125
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8167510000021139
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8915140000169686
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.060722000000623666
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4629480000062358
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.42150499999138447
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.37493499999641244
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9244040000169207
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.902681000013672
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06166299999676994
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.42367899999362635
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.44294799999988754
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2849990000015623
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8440619999987575
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.920877999988079
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06255499999952008
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4498579999960839
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.45856100001628874
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.280492999991111
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8710930000006556
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9148589999767864
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.08033199998180862
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.44720399998254834
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.42255700000737306
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2803819999996904
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8589449999760745
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9205380000025798
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06360599999766237
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4677249999929245
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4390020000073491
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.30636099998559985
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8248930000149812
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9147689999906561
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06173300002387805
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4194029999950999
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.41774000001737477
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.3110490000040045
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.872874999998885
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.940778000000364
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.0630549999982577
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.41759999999158026
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.441695000006348
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.28289700000527773
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8596049999880506
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9322050000264426
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06188300000076197
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4617459999849416
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.6473159999984546
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2843890000008287
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8660659999861764
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9227409999823522
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.0620029999822691
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4348760000141283
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4195519999825592
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.29975200001786106
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8207369999979619
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8977829999992082
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06107200002247737
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.5188519999990149
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4415959999732877
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.29852000000119006
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8503820000100859
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9005370000068069
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.0687539999830733
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4531729999825984
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.46991799999318573
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.2821749999952772
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9121749999962958
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.9089800000197101
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06238399998892419
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.42139499998938845
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.4355769999904169
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 190,
+    "nodes_expanded": 229,
+    "elapsed_ms": 0.28149400000643254
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8578329999977541
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 400,
+    "elapsed_ms": 0.8965210000155821
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06188300000076197
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 381,
+    "elapsed_ms": 0.4417359999990822
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 344,
+    "elapsed_ms": 0.3786409999975149
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 118,
+    "nodes_expanded": 121,
+    "elapsed_ms": 0.1566360000140321
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 344,
+    "elapsed_ms": 0.7225290000008044
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 298,
+    "elapsed_ms": 0.690280000014809
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 40,
+    "elapsed_ms": 0.06809199999224802
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 324,
+    "elapsed_ms": 0.4163469999980407
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.4218359999867971
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 98,
+    "nodes_expanded": 212,
+    "elapsed_ms": 0.2706779999925857
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.7078769999964152
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 293,
+    "elapsed_ms": 0.6674059999909332
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.07030599999779952
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 292,
+    "elapsed_ms": 0.3488259999926413
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.003094999982522495
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0034859999971104116
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.00404600001502331
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.003745999975990344
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0027439999996659026
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.007651999993640857
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 346,
+    "elapsed_ms": 0.37859099998627244
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 84,
+    "nodes_expanded": 205,
+    "elapsed_ms": 0.27970200000027035
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 346,
+    "elapsed_ms": 0.7357090000255084
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 311,
+    "elapsed_ms": 0.7248830000037287
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 40,
+    "elapsed_ms": 0.06522800001107498
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 320,
+    "elapsed_ms": 0.38348799998288996
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.37004800000772775
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 86,
+    "nodes_expanded": 93,
+    "elapsed_ms": 0.12569900002290524
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.7140860000163229
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 202,
+    "elapsed_ms": 0.4627769999956399
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.0681520000114233
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 288,
+    "elapsed_ms": 0.3472439999825383
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 335,
+    "elapsed_ms": 0.3825070000118558
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 96,
+    "nodes_expanded": 108,
+    "elapsed_ms": 0.1402110000015
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 336,
+    "elapsed_ms": 0.7064450000200395
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 258,
+    "elapsed_ms": 0.6070350000015878
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 52,
+    "nodes_expanded": 57,
+    "elapsed_ms": 0.09458199997425254
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 278,
+    "elapsed_ms": 0.3219250000086049
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 327,
+    "elapsed_ms": 0.3625360000114597
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 126,
+    "nodes_expanded": 133,
+    "elapsed_ms": 0.7262149999860412
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 327,
+    "elapsed_ms": 0.7662760000073376
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 178,
+    "elapsed_ms": 0.43443500001671964
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.06711099999279213
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.2863010000169197
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 328,
+    "elapsed_ms": 0.35091899999883935
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 100,
+    "nodes_expanded": 182,
+    "elapsed_ms": 0.646815999999717
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 328,
+    "elapsed_ms": 0.8984639999880528
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 274,
+    "elapsed_ms": 0.6479870000077881
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 46,
+    "nodes_expanded": 53,
+    "elapsed_ms": 0.0872120000110499
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 290,
+    "elapsed_ms": 0.3930629999899793
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 344,
+    "elapsed_ms": 0.40419900000188136
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 112,
+    "nodes_expanded": 114,
+    "elapsed_ms": 0.3478440000037608
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 344,
+    "elapsed_ms": 0.7523740000010548
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 262,
+    "elapsed_ms": 0.6148560000269754
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.06964499999639884
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 303,
+    "elapsed_ms": 0.35433400000783877
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 324,
+    "elapsed_ms": 0.3629569999930027
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 62,
+    "nodes_expanded": 233,
+    "elapsed_ms": 0.4080550000082894
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 324,
+    "elapsed_ms": 0.7072559999983241
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 201,
+    "elapsed_ms": 0.4532629999971505
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 45,
+    "elapsed_ms": 0.07623499999453998
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 254,
+    "elapsed_ms": 0.30552000001193846
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 341,
+    "elapsed_ms": 0.3678140000147323
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 110,
+    "nodes_expanded": 134,
+    "elapsed_ms": 0.17350199999555116
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 341,
+    "elapsed_ms": 0.7355390000043371
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 327,
+    "elapsed_ms": 0.7504609999955392
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.0632650000227386
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 313,
+    "elapsed_ms": 0.43521599999962746
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 342,
+    "elapsed_ms": 0.40440000000785403
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 98,
+    "nodes_expanded": 152,
+    "elapsed_ms": 0.19508400001200243
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 342,
+    "elapsed_ms": 0.7216980000066542
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 279,
+    "elapsed_ms": 0.6296899999824745
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 49,
+    "elapsed_ms": 0.09575400000016998
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 302,
+    "elapsed_ms": 0.3497369999934108
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 348,
+    "elapsed_ms": 0.37760900002581366
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 84,
+    "nodes_expanded": 155,
+    "elapsed_ms": 0.21147900000073605
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 348,
+    "elapsed_ms": 0.8006470000054833
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 241,
+    "elapsed_ms": 0.5758679999985361
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 40,
+    "elapsed_ms": 0.06845300001145915
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 309,
+    "elapsed_ms": 0.36333700001023317
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 329,
+    "elapsed_ms": 0.3673230000060812
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 72,
+    "nodes_expanded": 190,
+    "elapsed_ms": 0.23999200001867393
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 329,
+    "elapsed_ms": 0.6751080000242382
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 263,
+    "elapsed_ms": 0.7334860000014487
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 44,
+    "nodes_expanded": 47,
+    "elapsed_ms": 0.13702699999385004
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 267,
+    "elapsed_ms": 0.3717910000204938
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 341,
+    "elapsed_ms": 0.40411899999526213
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 112,
+    "nodes_expanded": 135,
+    "elapsed_ms": 0.17521399999509413
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 341,
+    "elapsed_ms": 0.7082770000010896
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 296,
+    "elapsed_ms": 0.6562000000087664
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 42,
+    "elapsed_ms": 0.0702659999944899
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 305,
+    "elapsed_ms": 0.3631380000115314
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 350,
+    "elapsed_ms": 0.3788310000061301
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 90,
+    "nodes_expanded": 145,
+    "elapsed_ms": 0.1867709999885392
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 350,
+    "elapsed_ms": 0.8364300000209823
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 228,
+    "elapsed_ms": 0.5557180000153039
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 44,
+    "elapsed_ms": 0.0749429999871154
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 306,
+    "elapsed_ms": 0.35222099998577505
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 329,
+    "elapsed_ms": 0.36846599999762475
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 88,
+    "nodes_expanded": 128,
+    "elapsed_ms": 0.16182399997433095
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 329,
+    "elapsed_ms": 0.6721830000060436
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 220,
+    "elapsed_ms": 0.48989900000151465
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 45,
+    "elapsed_ms": 0.07908000000611537
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 255,
+    "elapsed_ms": 0.2889760000073238
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 346,
+    "elapsed_ms": 0.39803999999321604
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 78,
+    "nodes_expanded": 148,
+    "elapsed_ms": 0.35278199999311255
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 346,
+    "elapsed_ms": 0.7453940000061721
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 300,
+    "elapsed_ms": 0.7000749999974687
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 44,
+    "nodes_expanded": 47,
+    "elapsed_ms": 0.0787390000027699
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 299,
+    "elapsed_ms": 0.3458109999883163
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 347,
+    "elapsed_ms": 0.39414399998349836
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 118,
+    "nodes_expanded": 121,
+    "elapsed_ms": 0.1578979999976582
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 347,
+    "elapsed_ms": 0.726224999993974
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 308,
+    "elapsed_ms": 0.7548380000059751
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 46,
+    "nodes_expanded": 50,
+    "elapsed_ms": 0.08593000001155815
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 313,
+    "elapsed_ms": 0.3618650000021262
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.36631200001124853
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 74,
+    "nodes_expanded": 153,
+    "elapsed_ms": 0.2102269999966211
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 337,
+    "elapsed_ms": 0.6884980000165797
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 310,
+    "elapsed_ms": 0.7223590000080549
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.06455800001958778
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.15,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 311,
+    "elapsed_ms": 0.35834000001955246
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 282,
+    "elapsed_ms": 0.3036980000103995
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 92,
+    "nodes_expanded": 111,
+    "elapsed_ms": 0.18405800000209638
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 283,
+    "elapsed_ms": 0.5826690000105827
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 151,
+    "elapsed_ms": 0.3918000000169286
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 54,
+    "elapsed_ms": 0.08882399998810797
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 227,
+    "elapsed_ms": 0.26116399999409623
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 258,
+    "elapsed_ms": 0.2778589999934411
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 68,
+    "nodes_expanded": 125,
+    "elapsed_ms": 0.1595899999813355
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 258,
+    "elapsed_ms": 0.5143759999839403
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 152,
+    "elapsed_ms": 0.33822000000327535
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 50,
+    "nodes_expanded": 60,
+    "elapsed_ms": 0.09381199998870215
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 200,
+    "elapsed_ms": 0.23169900001107635
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.002894000004971531
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0035549999779505015
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0039360000130272965
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0037049999832561298
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.0027439999996659026
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.00792200000887533
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 290,
+    "elapsed_ms": 0.32581099998196805
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 92,
+    "nodes_expanded": 118,
+    "elapsed_ms": 0.15013600000202132
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 290,
+    "elapsed_ms": 0.6932949999907123
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 201,
+    "elapsed_ms": 0.447223999998414
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 44,
+    "elapsed_ms": 0.06948500001158209
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 221,
+    "elapsed_ms": 0.2559850000238839
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.2850399999942965
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.31948099999112856
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.49640800000361196
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.5874249999919812
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.39487500001200715
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.004506999999875916
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.022675000025174086
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.024657000011529817
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.03764699999919685
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.037276000000474596
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.026389999987941337
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.007561999979088796
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.08557900000027985
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.09756700001162244
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.14969599999403727
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.15892999999778112
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.11206900001070608
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 187,
+    "elapsed_ms": 0.21356200002742298
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 249,
+    "elapsed_ms": 0.2664010000046346
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 181,
+    "elapsed_ms": 0.22135400001843664
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 250,
+    "elapsed_ms": 0.48888699998883567
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 141,
+    "elapsed_ms": 0.30642200002262143
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 91,
+    "elapsed_ms": 0.14198400000964284
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 169,
+    "elapsed_ms": 0.2123799999935727
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.011878000009346579
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.013459999991027871
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.01914899999633235
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.019038999994336336
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.018437999983689224
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 26,
+    "elapsed_ms": 0.03163799999583716
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 249,
+    "elapsed_ms": 0.2641480000136198
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 60,
+    "nodes_expanded": 79,
+    "elapsed_ms": 0.10081199999945056
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 251,
+    "elapsed_ms": 0.4881659999966814
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 131,
+    "elapsed_ms": 0.36593200002243975
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 75,
+    "elapsed_ms": 0.11886999999433101
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 180,
+    "elapsed_ms": 0.23264099999664722
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.0066100000140068005
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.007361000001537832
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.010055000018382998
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.009774999995215694
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 5,
+    "elapsed_ms": 0.006759999990890719
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 10,
+    "elapsed_ms": 0.012810000015406331
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 7,
+    "elapsed_ms": 0.00808199999369208
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 7,
+    "elapsed_ms": 0.009374000001116656
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 7,
+    "elapsed_ms": 0.012268000006088187
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 7,
+    "elapsed_ms": 0.012760000004163885
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 7,
+    "elapsed_ms": 0.009445000017649363
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.00676999999882355
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 279,
+    "elapsed_ms": 0.30021200001328907
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 74,
+    "nodes_expanded": 121,
+    "elapsed_ms": 0.1529409999818654
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 280,
+    "elapsed_ms": 0.5599739999979647
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 108,
+    "elapsed_ms": 0.2381890000151543
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 51,
+    "elapsed_ms": 0.08195300000579664
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 195,
+    "elapsed_ms": 0.22667200002501886
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 234,
+    "elapsed_ms": 0.24728199997525735
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 234,
+    "elapsed_ms": 0.2849589999982527
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 234,
+    "elapsed_ms": 0.44882599999596096
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 234,
+    "elapsed_ms": 0.5261729999972431
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 234,
+    "elapsed_ms": 0.3455610000173692
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 36,
+    "elapsed_ms": 0.06908399998906134
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 255,
+    "elapsed_ms": 0.27642699998864373
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 46,
+    "nodes_expanded": 147,
+    "elapsed_ms": 0.18468799999027397
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 257,
+    "elapsed_ms": 0.5030879999878834
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 126,
+    "elapsed_ms": 0.2777079999987109
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.06630999999401865
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 182,
+    "elapsed_ms": 0.2107180000052722
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 289,
+    "elapsed_ms": 0.3265619999979208
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 54,
+    "nodes_expanded": 174,
+    "elapsed_ms": 0.21647600001983847
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 290,
+    "elapsed_ms": 0.5659830000013244
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 159,
+    "elapsed_ms": 0.3700069999865718
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 56,
+    "nodes_expanded": 71,
+    "elapsed_ms": 0.1204819999998108
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 40,
+    "nodes_expanded": 187,
+    "elapsed_ms": 0.23526399999695968
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 219,
+    "elapsed_ms": 0.23215000001641783
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 48,
+    "nodes_expanded": 107,
+    "elapsed_ms": 0.13664599998719495
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 219,
+    "elapsed_ms": 0.4182109999817385
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 81,
+    "elapsed_ms": 0.17922000000680782
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 48,
+    "elapsed_ms": 0.07813799999212279
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 164,
+    "elapsed_ms": 0.2056900000013684
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 266,
+    "elapsed_ms": 0.28582999999571257
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 46,
+    "nodes_expanded": 241,
+    "elapsed_ms": 0.29815999999982523
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 268,
+    "elapsed_ms": 0.5392130000245743
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 143,
+    "elapsed_ms": 0.318721000013511
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 42,
+    "nodes_expanded": 58,
+    "elapsed_ms": 0.09101699998836921
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 193,
+    "elapsed_ms": 0.23813900000391186
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 68,
+    "nodes_expanded": 271,
+    "elapsed_ms": 0.2911789999870962
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 86,
+    "nodes_expanded": 132,
+    "elapsed_ms": 0.2618839999968259
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 68,
+    "nodes_expanded": 271,
+    "elapsed_ms": 0.5465739999976904
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 68,
+    "nodes_expanded": 248,
+    "elapsed_ms": 0.5149870000025203
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 72,
+    "nodes_expanded": 132,
+    "elapsed_ms": 0.21661599998878955
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 68,
+    "nodes_expanded": 265,
+    "elapsed_ms": 0.308595000007017
+  },
+  {
+    "algorithm": "BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 265,
+    "elapsed_ms": 0.28044300000829026
+  },
+  {
+    "algorithm": "DFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 60,
+    "nodes_expanded": 118,
+    "elapsed_ms": 0.14716199999043056
+  },
+  {
+    "algorithm": "Dijkstra",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 266,
+    "elapsed_ms": 0.5188519999990149
+  },
+  {
+    "algorithm": "A*",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 115,
+    "elapsed_ms": 0.2549339999973199
+  },
+  {
+    "algorithm": "Greedy",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 48,
+    "nodes_expanded": 53,
+    "elapsed_ms": 0.08195399999522124
+  },
+  {
+    "algorithm": "Bidirectional BFS",
+    "board": "20x20",
+    "wall_density": 0.3,
+    "found": true,
+    "path_cost": 38,
+    "nodes_expanded": 174,
+    "elapsed_ms": 0.20230499998774576
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1635959999930492
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4993329999933849
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14683099999501792
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48262699999668257
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14334600001575382
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46840600001019084
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.15503300002706055
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4694179999944481
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14027199998167816
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4822470000078738
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1401819999955478
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4850720000035835
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.15636599999879763
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4655420000005961
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14247499998987223
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48631299998191935
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1409829999943213
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46745499997769
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.15323099998454381
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46587200000658413
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1403519999882974
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48313800002119933
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1397599999961585
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48120499999981803
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1553740000019843
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4660419999993337
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14416799999139585
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48058400000172696
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14031199998498778
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46383900001956135
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.15626500001530985
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4632280000009814
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14136299998313007
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48349900001198876
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14002099999288475
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.47812100001465296
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.22916599999689424
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46472100001437866
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14318600000251536
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4897780000021612
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14149300000099174
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.46532100000717946
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1396499999941625
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.501785999972526
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.1443970000138961
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.5084459999977753
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.18802400001050046
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.48895699998752207
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14227400001232127
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.0,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.4613250000033986
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 57,
+    "elapsed_ms": 0.299312000009877
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 41,
+    "elapsed_ms": 0.9046529999920949
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 127,
+    "elapsed_ms": 0.6330740000066726
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 59,
+    "elapsed_ms": 1.7437890000167044
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 33,
+    "elapsed_ms": 0.1888850000000275
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 20,
+    "elapsed_ms": 0.6381119999900875
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 75,
+    "elapsed_ms": 0.38186599999789905
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 50,
+    "elapsed_ms": 1.340060000018184
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 28,
+    "elapsed_ms": 0.1595899999813355
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 25,
+    "elapsed_ms": 0.6119930000068052
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 49,
+    "elapsed_ms": 0.25600600000075246
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 32,
+    "elapsed_ms": 0.7335660000080679
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 83,
+    "elapsed_ms": 0.4173990000140293
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 49,
+    "elapsed_ms": 1.1068179999824679
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 132,
+    "elapsed_ms": 0.6702510000025086
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 90,
+    "elapsed_ms": 2.063952000014524
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 47,
+    "elapsed_ms": 0.25244100001486913
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 21,
+    "elapsed_ms": 0.7748779999872113
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 29,
+    "nodes_expanded": 131,
+    "elapsed_ms": 0.6411970000215206
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 29,
+    "nodes_expanded": 85,
+    "elapsed_ms": 2.0092289999809054
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 79,
+    "elapsed_ms": 0.39085900002078233
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 50,
+    "elapsed_ms": 1.1296829999878355
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 102,
+    "elapsed_ms": 0.5509899999935897
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 53,
+    "elapsed_ms": 2.007676999994601
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 51,
+    "elapsed_ms": 0.2759959999991679
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 27,
+    "elapsed_ms": 0.8961810000016612
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.16095200001586818
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 18,
+    "elapsed_ms": 0.6367299999965326
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 83,
+    "elapsed_ms": 0.43102999998723135
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 43,
+    "elapsed_ms": 1.3972159999866562
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 63,
+    "elapsed_ms": 0.35013799998750983
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 37,
+    "elapsed_ms": 1.1479810000025736
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 51,
+    "elapsed_ms": 0.29711799999176947
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.7303309999997509
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 80,
+    "elapsed_ms": 0.40869600002224615
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 54,
+    "elapsed_ms": 1.378958999993074
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 49,
+    "elapsed_ms": 0.2619249999895601
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 23,
+    "elapsed_ms": 0.7328140000026906
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.14307500001109474
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 19,
+    "elapsed_ms": 0.626194000005853
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 74,
+    "elapsed_ms": 0.37402300000621835
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 50,
+    "elapsed_ms": 1.0688410000057047
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 50,
+    "elapsed_ms": 0.2765269999827069
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 34,
+    "elapsed_ms": 0.9286000000088279
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 65,
+    "elapsed_ms": 0.33343200001922924
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 39,
+    "elapsed_ms": 0.9164709999822662
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 57,
+    "elapsed_ms": 0.30590099999017184
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 24,
+    "nodes_expanded": 32,
+    "elapsed_ms": 1.1398380000002817
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 24,
+    "elapsed_ms": 0.15707700001144076
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.1,
+    "found": true,
+    "path_cost": 23,
+    "nodes_expanded": 20,
+    "elapsed_ms": 0.6978620000097635
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 109,
+    "elapsed_ms": 0.5255220000037752
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 66,
+    "elapsed_ms": 1.1051259999987906
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 114,
+    "elapsed_ms": 0.5558180000093671
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 62,
+    "elapsed_ms": 1.2244260000215945
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 32,
+    "nodes_expanded": 259,
+    "elapsed_ms": 1.2390480000021853
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 32,
+    "nodes_expanded": 181,
+    "elapsed_ms": 3.383742000011125
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 465,
+    "elapsed_ms": 2.235831000007238
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 430,
+    "elapsed_ms": 8.178028000003223
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.008413000017526429
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 2,
+    "elapsed_ms": 0.012078000025894653
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 28,
+    "nodes_expanded": 116,
+    "elapsed_ms": 0.634207000018705
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 28,
+    "nodes_expanded": 74,
+    "elapsed_ms": 1.512870999988536
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 28,
+    "nodes_expanded": 133,
+    "elapsed_ms": 0.6775309999795809
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 28,
+    "nodes_expanded": 91,
+    "elapsed_ms": 1.3692640000044776
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 1,
+    "elapsed_ms": 0.003284999991137738
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 1,
+    "elapsed_ms": 0.0038960000097176817
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 77,
+    "elapsed_ms": 0.37525600001231396
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 43,
+    "elapsed_ms": 0.9401270000068962
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 33,
+    "nodes_expanded": 109,
+    "elapsed_ms": 0.53685900002165
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 33,
+    "nodes_expanded": 75,
+    "elapsed_ms": 1.1730079999949794
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 30,
+    "nodes_expanded": 129,
+    "elapsed_ms": 0.6083170000010796
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 30,
+    "nodes_expanded": 104,
+    "elapsed_ms": 1.9910009999932754
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 136,
+    "elapsed_ms": 0.6585030000110237
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 83,
+    "elapsed_ms": 1.7254119999847717
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 73,
+    "elapsed_ms": 0.365310999995927
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 43,
+    "elapsed_ms": 1.160910999999487
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 93,
+    "elapsed_ms": 0.46369899999376685
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 61,
+    "elapsed_ms": 1.127609999997503
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 82,
+    "elapsed_ms": 0.4276640000000498
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 56,
+    "elapsed_ms": 1.1414399999978286
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 84,
+    "elapsed_ms": 0.4370290000110799
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 61,
+    "elapsed_ms": 1.1160520000146334
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 29,
+    "nodes_expanded": 186,
+    "elapsed_ms": 0.8876880000059373
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 29,
+    "nodes_expanded": 109,
+    "elapsed_ms": 2.281870000018671
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 69,
+    "elapsed_ms": 0.3361359999871638
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 45,
+    "elapsed_ms": 0.7184529999904044
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 106,
+    "elapsed_ms": 0.522076999999399
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 27,
+    "nodes_expanded": 70,
+    "elapsed_ms": 1.3447569999982534
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 110,
+    "elapsed_ms": 0.5662229999927604
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 61,
+    "elapsed_ms": 1.1016600000175458
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 30,
+    "nodes_expanded": 146,
+    "elapsed_ms": 0.6586629999958404
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 30,
+    "nodes_expanded": 103,
+    "elapsed_ms": 1.7568689999905018
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 56,
+    "elapsed_ms": 0.2770380000072237
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 25,
+    "nodes_expanded": 37,
+    "elapsed_ms": 1.5979890000039632
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 452,
+    "elapsed_ms": 3.2289979999973184
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": false,
+    "path_cost": 0,
+    "nodes_expanded": 414,
+    "elapsed_ms": 8.110421999987238
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 116,
+    "elapsed_ms": 0.5838099999948554
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 67,
+    "elapsed_ms": 1.596798000008448
+  },
+  {
+    "algorithm": "A*",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 84,
+    "elapsed_ms": 0.5053309999993871
+  },
+  {
+    "algorithm": "JPS",
+    "board": "24x24 (diagonal)",
+    "wall_density": 0.2,
+    "found": true,
+    "path_cost": 26,
+    "nodes_expanded": 59,
+    "elapsed_ms": 0.9520350000116196
+  }
+]
